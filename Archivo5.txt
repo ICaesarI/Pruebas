@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-probando nuevos códigos jajajaja
-=======
-Probando con nuevo texto
->>>>>>> Stashed changes
